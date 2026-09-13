@@ -1,0 +1,6 @@
+{
+  "name": "قالیشویی هوشمند",
+  "description": "اپلیکیشن راننده و پیک قالیشویی جهت دریافت و تحویل سفارشات، صدور فاکتور بر اساس نرخ‌نامه و همگام‌سازی با وب پنل Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
